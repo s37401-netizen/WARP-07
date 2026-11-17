@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 env:
   DOTNET_VERSION: 10.0.x
-  PROJECT_PATH: /home/runner/work/WARP-07/WARP-07/src/Warp_Action_Data/Warp_Action_Data.csproj
+  PROJECT_PATH: ./Warp_Action_Data
 jobs:
   build:
     runs-on: ubuntu-latest
