@@ -1,0 +1,15 @@
+C:\Users\s37401\WARP-07\Warp_Action_Data\bin\Debug\net10.0\Warp_Action_Data.exe
+C:\Users\s37401\WARP-07\Warp_Action_Data\bin\Debug\net10.0\Warp_Action_Data.deps.json
+C:\Users\s37401\WARP-07\Warp_Action_Data\bin\Debug\net10.0\Warp_Action_Data.runtimeconfig.json
+C:\Users\s37401\WARP-07\Warp_Action_Data\bin\Debug\net10.0\Warp_Action_Data.dll
+C:\Users\s37401\WARP-07\Warp_Action_Data\bin\Debug\net10.0\Warp_Action_Data.pdb
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.AssemblyInfoInputs.cache
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.AssemblyInfo.cs
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.csproj.CoreCompileInputs.cache
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.sourcelink.json
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.dll
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\refint\Warp_Action_Data.dll
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.pdb
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\Warp_Action_Data.genruntimeconfig.cache
+C:\Users\s37401\WARP-07\Warp_Action_Data\obj\Debug\net10.0\ref\Warp_Action_Data.dll
